@@ -5,6 +5,7 @@
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/1.png)
     
     * 小工程如此干净
+    
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/2.png)
     
     * 给工程添加一些类（其中图片、Storyboard、xcassets、vc 都有了）
