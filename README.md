@@ -53,7 +53,7 @@
     * .a 和.h 如若不在同一个目录下  import 找不到的
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/16.png)
     
-    * 关于使用详见dome
+    * 关于使用详见详见[dome](https://github.com/lecochao/bundel-.a/tree/master/Dome)
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/17.png)
     
 * 需要注意的问题
