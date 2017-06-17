@@ -9,6 +9,7 @@
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/2.png)
     
     * 给工程添加一些类（其中图片、Storyboard、xcassets、vc 都有了）
+    
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/3.png)
     
     * 打包静态库 .a的一些设置
