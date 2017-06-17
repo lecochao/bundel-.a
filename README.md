@@ -75,5 +75,5 @@
     *  bundle 加载的问题，（有知道的道友欢迎交流）...
         * (not yet loaded)  ，打印NSBundle会出来。
         * loadAndReturnError，error有值！The bundle’s executable couldn’t be located.
-* 最后效果（详见dome，gif软件坏了）
+* 最后效果（详见[dome](https://github.com/lecochao/bundel-.a/tree/master/Dome)，gif软件坏了）
     * 第一个页面是主工程，push过去的是 静态库.a中的Storyboard创建的。
