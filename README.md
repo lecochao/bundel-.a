@@ -37,6 +37,7 @@
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/10.png)
     
     * 把需要打包资源文件打包进去
+    
     ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/11.png)
     
     * 设置一下 Base SDK — iOS版本
@@ -68,7 +69,7 @@
         * 其实这个问题与Interface Builder无关，最直接的原因还是相关的symbol没有从静态库中加载进来。这种问题的处理就是在Target的”Build Setting”–>“Other Link Flags”中加上 -all_load 和 -ObjC 这两个标识位，这样就OK了。
     * bundle中的资源文件 被静态库.a 使用 ，需要普通加载bundle资源文件的方式加载，如：
     
-    ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/5.png)
+    ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/18.png)
     
         * 还有其他加载方式请自行查阅！
     *  bundle 加载的问题，（有知道的道友欢迎交流）...
