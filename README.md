@@ -2,7 +2,8 @@
 .a打包静态库、Bundle文件创建使用以及两者引用一些事
 * 创建静态库 —— .a
     * 新建Library 工程
-    * 小工程如此干净
+    ![Image text](https://raw.githubusercontent.com/lecochao/bundel-.a/master/img/1.png)
+    * 小工程如此干净
     * 给工程添加一些类（其中图片、Storyboard、xcassets、vc 都有了）
     * 打包静态库 .a的一些设置
     * 把需要文件 添加进去
